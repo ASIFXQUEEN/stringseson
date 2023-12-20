@@ -9,4 +9,4 @@ from StringGen.utils import get_served_users
 @Alone.on_message(filters.command(["stats", "users"]) & filters.user(OWNER_ID))
 async def get_stats(_, message: Message):
     users = len(await get_served_users())
-    await message.reply_text(f"» ᴄᴜʀʀᴇɴᴛ sᴛᴀᴛs ᴏғ {Asif.name} :\n\n {users} ᴜsᴇʀs")
+    await message.reply_text(f"» ᴄᴜʀʀᴇɴᴛ sᴛᴀᴛs ᴏғ {Alone.name} :\n\n {users} ᴜsᴇʀs")
