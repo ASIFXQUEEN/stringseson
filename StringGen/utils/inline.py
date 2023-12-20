@@ -9,7 +9,9 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="𝐒ᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="𝐒ᴏᴜʀᴄᴇ", url="https://github.com/TeamAloneOp/AloneXStringGenBot/fork"
+                text="𝐒ᴏᴜʀᴄᴇ", url="https://t.me/ashif903"),
+            InlineKeyboardButton(
+                text"𝐎ᴡɴᴇʀ", url="https://t.me/ashif903"
             ),
         ],
     ]
