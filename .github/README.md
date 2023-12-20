@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 Aʟᴏɴᴇ Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
+    ──「 𝗔𝚜𝐈ᶠ Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
 </h2>
 
 <p align="center">
   <img src="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴏɴᴇ sᴛʀɪɴɢ ʙᴏᴛ](https://t.me/AloneXStringBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀꜱɪꜰ sᴛʀɪɴɢ ʙᴏᴛ](https://t.me/ASHIF903)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -22,7 +22,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴏɴᴇ sᴛ�
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg">
+  <img src="[https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg](https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME)">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴏɴᴇ sᴛ�
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamAloneOp/AloneXStringGenBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ASIFXQUEEN/stringseson"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
 <summary><h3>
@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg">
+  <img src="[https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg](https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME)">
 </p>
 
 </details>
@@ -76,7 +76,7 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AlonesHeaven"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Ashif903"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/AloneXBots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
