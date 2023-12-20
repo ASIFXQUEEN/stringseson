@@ -58,7 +58,7 @@ async def gen_session(
     except ListenerTimeout:
         return await Alone.send_message(
             user_id,
-            "» ᴛɪᴍᴇᴅ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 5 ᴍɪɴᴜᴛᴇs.\n\nᴘʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴛɪᴍᴇᴅ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 5 ᴍɪɴᴜᴛᴇs.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
 
@@ -70,7 +70,7 @@ async def gen_session(
     except ValueError:
         return await Alone.send_message(
             user_id,
-            "» ᴛʜᴇ ᴀᴘɪ ɪᴅ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs ɪɴᴠᴀʟɪᴅ.\n\nᴘʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴛʜᴇ ᴀᴘɪ ɪᴅ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs ɪɴᴠᴀʟɪᴅ.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
 
@@ -84,7 +84,7 @@ async def gen_session(
     except ListenerTimeout:
         return await Alone.send_message(
             user_id,
-            "» ᴛɪᴍᴇᴅ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 5 ᴍɪɴᴜᴛᴇs.\n\nᴘʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴛɪᴍᴇᴅ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 5 ᴍɪɴᴜᴛᴇs.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
 
@@ -96,7 +96,7 @@ async def gen_session(
     if len(api_hash) < 30:
         return await Alone.send_message(
             user_id,
-            "» ᴛʜᴇ ᴀᴘɪ ʜᴀsʜ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs ɪɴᴠᴀʟɪᴅ.\n\nᴘʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴛʜᴇ ᴀᴘɪ ʜᴀsʜ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs ɪɴᴠᴀʟɪᴅ.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
 
@@ -110,7 +110,7 @@ async def gen_session(
     except ListenerTimeout:
         return await Alone.send_message(
             user_id,
-            "» ᴛɪᴍᴇᴅ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 5 ᴍɪɴᴜᴛᴇs.\n\nᴘʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴛɪᴍᴇᴅ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 5 ᴍɪɴᴜᴛᴇs.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
 
@@ -143,13 +143,13 @@ async def gen_session(
     except (ApiIdInvalid, ApiIdInvalidError, ApiIdInvalid1):
         return await Alone.send_message(
             user_id,
-            "» ᴀᴘɪ ɪᴅ ᴏʀ ᴀᴘɪ ʜᴀsʜ ɪs ɪɴᴠᴀʟɪᴅ.\n\nᴘʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ʏᴏᴜʀ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴀᴘɪ ɪᴅ ᴏʀ ᴀᴘɪ ʜᴀsʜ ɪs ɪɴᴠᴀʟɪᴅ.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
     except (PhoneNumberInvalid, PhoneNumberInvalidError, PhoneNumberInvalid1):
         return await Alone.send_message(
             user_id,
-            "» ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ɪɴᴠᴀʟɪᴅ.\n\nᴘʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ʏᴏᴜʀ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ɪɴᴠᴀʟɪᴅ.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
 
@@ -165,7 +165,7 @@ async def gen_session(
     except ListenerTimeout:
         return await Alone.send_message(
             user_id,
-            "» ᴛɪᴍᴇ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 10 ᴍɪɴᴜᴛᴇs.\n\nᴩʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ʏᴏᴜʀ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴛɪᴍᴇ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 10 ᴍɪɴᴜᴛᴇs.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
 
@@ -178,27 +178,27 @@ async def gen_session(
     except (PhoneCodeInvalid, PhoneCodeInvalidError, PhoneCodeInvalid1):
         return await Alone.send_message(
             user_id,
-            "» ᴛʜᴇ ᴏᴛᴩ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs <b>ᴡʀᴏɴɢ.</b>\n\nᴩʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ʏᴏᴜʀ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴛʜᴇ ᴏᴛᴩ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs <b>ᴡʀᴏɴɢ.</b>\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
     except (PhoneCodeExpired, PhoneCodeExpiredError, PhoneCodeExpired1):
         return await Alone.send_message(
             user_id,
-            "» ᴛʜᴇ ᴏᴛᴩ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs <b>ᴇxᴩɪʀᴇᴅ.</b>\n\nᴩʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ʏᴏᴜʀ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+            "» ᴛʜᴇ ᴏᴛᴩ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs <b>ᴇxᴩɪʀᴇᴅ.</b>\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
             reply_markup=retry_key,
         )
     except (SessionPasswordNeeded, SessionPasswordNeededError, SessionPasswordNeeded1):
         try:
             pwd = await Alone.ask(
                 identifier=(message.chat.id, user_id, None),
-                text="» ᴘʟᴇᴀsᴇ ᴇɴᴛᴇʀ ʏᴏᴜʀ ᴛᴡᴏ sᴛᴇᴘ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴘᴀssᴡᴏʀᴅ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ :",
+                text="» ᴋʏᴀ ᴅᴇᴋʜ ʀᴀʜᴀ ʜᴀɪ ᴍᴇʀɪ ᴊᴀɴᴀ ᴊᴀʟᴅɪ ᴘᴀꜱ ᴅᴀʟ ᴏʀ ᴀᴡᴀᴊᴇɴɪᴋᴀᴀʟ ᴍᴄ :",
                 filters=filters.text,
                 timeout=300,
             )
         except ListenerTimeout:
             return Alone.send_message(
                 user_id,
-                "» ᴛɪᴍᴇᴅ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 5 ᴍɪɴᴜᴛᴇs.\n\nᴘʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+                "» ᴛɪᴍᴇᴅ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ ᴏғ 5 ᴍɪɴᴜᴛᴇs.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
                 reply_markup=retry_key,
             )
 
@@ -214,7 +214,7 @@ async def gen_session(
         except (PasswordHashInvalid, PasswordHashInvalidError, PasswordHashInvalid1):
             return await Alone.send_message(
                 user_id,
-                "» ᴛʜᴇ ᴩᴀssᴡᴏʀᴅ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs ᴡʀᴏɴɢ.\n\nᴩʟᴇᴀsᴇ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ʏᴏᴜʀ sᴇssɪᴏɴ ᴀɢᴀɪɴ.",
+                "» ᴛʜᴇ ᴩᴀssᴡᴏʀᴅ ʏᴏᴜ'ᴠᴇ sᴇɴᴛ ɪs ᴡʀᴏɴɢ.\n\nʙᴀɴᴅᴀ ᴋᴜ ʙʜᴜʟ ᴅᴀᴜᴄʜᴀ ɢᴀʟᴜ ʜᴀᴜᴄʜɪ ᴋɪ.",
                 reply_markup=retry_key,
             )
 
@@ -222,7 +222,7 @@ async def gen_session(
         return await Alone.send_message(user_id, f"ᴇʀʀᴏʀ : <code>{str(ex)}</code>")
 
     try:
-        txt = "ʜᴇʀᴇ ɪs ʏᴏᴜʀ {0} sᴛʀɪɴɢ sᴇssɪᴏɴ\n\n<code>{1}</code>\n\nᴀ sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ ʙʏ <a href={2}>ᴀʟᴏɴᴇ ᴀssᴏᴄɪᴀᴛɪᴏɴ</a>\n☠ <b>ɴᴏᴛᴇ :</b> ᴅᴏɴ'ᴛ sʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ʏᴏᴜʀ ɢɪʀʟғʀɪᴇɴᴅ."
+        txt = "ʜᴇʀᴇ ɪs ʏᴏᴜʀ {0} sᴛʀɪɴɢ sᴇssɪᴏɴ\n\n<code>{1}</code>\n\nᴀ sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ ʙʏ <a href={2}>ᴀꜱɪꜰ ᴀssᴏᴄɪᴀᴛɪᴏɴ</a>\n☠ <b>ɴᴏᴛᴇ :</b> ᴅᴏɴ'ᴛ sʜᴀʀᴇ ᴍᴇ ᴜʀ ɢꜰ ᴄʜᴜᴅ."
         if telethon:
             string_session = client.session.save()
             await client.send_message(
@@ -231,7 +231,7 @@ async def gen_session(
                 link_preview=False,
                 parse_mode="html",
             )
-            await client(JoinChannelRequest("@AloneXBots"))
+            await client(JoinChannelRequest("@Ashif903"))
         else:
             string_session = await client.export_session_string()
             await client.send_message(
@@ -239,7 +239,7 @@ async def gen_session(
                 txt.format(ty, string_session, SUPPORT_CHAT),
                 disable_web_page_preview=True,
             )
-            await client.join_chat("AloneXBots")
+            await client.join_chat("Ashif903")
     except KeyError:
         pass
     try:
@@ -251,7 +251,7 @@ async def gen_session(
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇs",
+                            text="sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇs ᴅᴇᴋʜ ᴍᴄ ",
                             url=f"tg://openmessage?user_id={user_id}",
                         )
                     ]
